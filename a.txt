@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 
-=======
 Hallo Maric
->>>>>>> github/master
