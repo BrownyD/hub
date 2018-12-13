@@ -1,1 +1,5 @@
-Hallo Darren
+<<<<<<< HEAD
+
+=======
+Hallo Maric
+>>>>>>> github/master
